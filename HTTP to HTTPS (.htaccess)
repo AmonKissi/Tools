@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^<-SITE->\.com [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.<-SITE->.com/$1 [R,L]
+
+Change <-SITE-> to domain name and delete line 6
