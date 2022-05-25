@@ -1,0 +1,28 @@
+<!doctype html>
+<title>🛠️ Under Construction 🛠️ </title>
+<link rel="icon" type="image/x-icon" href="m_favicon.png">
+
+<style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <a href="https://brstore.us"><img src="m_logo2.png" alt="logo" style="width: 200px; height: auto; padding-left: 10rem; margin-top: -3rem;"></a>
+    <h1>Under Construction! 🚀</h1>
+    <div>
+        <p>Sorry for the inconvenience but we&rsquo;re performing some maintenance at the moment. If you need to reach us, you can always <a href="mailto:support@brstore.us">contact us</a>, otherwise we&rsquo;ll be back online shortly!</p>
+        <p>&mdash; B&R Tech Team</p>
+        <small>📧: <a href="mailto:support@brstore.us">support@brstore.us<a></small>
+        <div></div>
+        <!-- <br> -->
+        <small>📞: <a href="tel:4695980880">+1(469) 598-0880</a></small>
+        <div></div>
+        <!-- <br> -->
+        <small><a href="https://brstore.us" style="padding-left: 2rem;">www.brstore.us</a></small>
+    </div>
+</article>
