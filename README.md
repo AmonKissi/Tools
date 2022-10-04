@@ -1,5 +1,3 @@
-# APP
-NFT app
-Market place is being build currently...
-Stay tuned...
-www.nftsociale.net
+All technical tools for Web Development
+
+// Use this for future development
